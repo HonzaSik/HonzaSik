@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m student at the Brno University of Technology.<br><br>👯 I’m looking to collaborate on some interesting project<br><br>            In which I'd like to learn something new.<br><br>🌱 I’m currently learning C, Python, Web Development<br><br>⚡ I'm also fully involved in cycling.<br>
+🔭 I’m student at the Brno University of Technology.<br><br>👯 I’m looking to collaborate on some interesting project<br>            In which I'd like to learn something new.<br><br>🌱 I’m currently learning C, Python, Web Development<br><br>⚡ I'm also fully involved in cycling.<br>
 
 
 ## 🌐 Socials:
