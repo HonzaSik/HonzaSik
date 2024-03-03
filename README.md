@@ -15,4 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+[![](https://visitcount.itsvg.in/api?id=HonzaSik&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
